@@ -1,4 +1,4 @@
- # Java DSA Journey
+ # Java
 My journey of learning Java, Data Structures &amp; Algorithms through coding practice, pattern problems, and projects.
 
 This repository contains my Java programming practice and DSA learning journey.
